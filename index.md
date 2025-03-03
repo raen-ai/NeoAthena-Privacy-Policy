@@ -91,8 +91,10 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-Email: privacy@neoathena.com  
-Address: [Your Business Address]
+Email: info@raen.ai 
+Address: Media City
+Sharjah, UAE
++971 56 731843
 
 ## Additional Information for Google Gmail Sign-Up
 
