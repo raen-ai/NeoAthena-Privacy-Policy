@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # NeoAthena Privacy Policy
 
 **Last Updated: March 3, 2025**
